@@ -10,8 +10,6 @@ When [Annibuliful](https://www.github.com/annibuliful) was working on his compan
 Mr.A needs a shirt with his logo or text with a specific position, width, height and pixel perfect so he needs to schedule with his love shirt shop to discuss his shirt idea. So It might take longer than 2~3 days to finish the discussion of the design. It would be better to have a tool to help Mr.A to put his creativity with basic functionality such as Text, Image, All-over-print, etc. then he can order a custom shirt.
 
 <br>
-<br>
-<br>
 
 ### Merchant side
 ---
