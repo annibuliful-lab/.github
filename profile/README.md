@@ -1,4 +1,4 @@
-![Logo](/img/A0wMoiI.png)
+![Logo](https://i.imgur.com/A0wMoiI.png)
 # Tadchud E-commerce
 We need to build a small business to reduce the gap between merchants and customers for custom shirts, bags, etc through their creativity.
 
