@@ -1,5 +1,8 @@
 ![Logo](https://i.imgur.com/A0wMoiI.png)
 # Tadchud E-commerce
+
+<a href="https://www.producthunt.com/posts/tadchud?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-tadchud" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=362850&theme=light" alt="Tadchud - customization&#0045;e&#0045;commerce&#0045;tool | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 We need to build a small business to reduce the gap between merchants and customers for custom shirts, bags, etc through their creativity.
 
 ## Old way
